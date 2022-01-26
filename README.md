@@ -1,9 +1,13 @@
-## BLUETOOTH CONTROLLED DESKTOP ASSISTANT
+## VOICE CONTROLLED ASSISTANT
 
-This project aims to build a bluetooth controlled desktop assistant for visually impaired persons (Proof of Concept).
+This project aims to build a voice controlled assistant for visually impaired persons (Proof of Concept).
+
+<b>NOTE 1:</b> For the proof of concept, the voice is being tranfered through bluetooth using a mobile app.
+<br>
+<b>NOTE 2:</b> For the proof of concept, certain functions are hardcoded, there is no intelligence involved.
 
 It provides various functionalities like:
-- Control home appliances through voice.
+- Control home appliances.
 - Perform various operations on a desktop like getting information from wikipedia, open applications, getting random jokes etc.
 
 ## Tech. Stack
@@ -29,9 +33,13 @@ It provides various functionalities like:
 ## Architecture
 ![architecture](https://github.com/ishivanshgoel/Bluetooth-Controlled-Assistant-for-Visually-Impaired/blob/master/docs/architecture.png)
 
-## Credits
+## Credits for POC
 - Shivansh Goel
 - Pratyush Motha
+
+## Contact for further ideas/ our progress
+- ishivanshgoel@gmail.com
+- pratyushmotha@gmail.com
 
 ## LICENSE
 MIT License
